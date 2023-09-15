@@ -8,4 +8,5 @@
 * 12:00: Created a GB contestant table
 * 01:30: Created a BIP contestant table
 * 2:00: Complete contestants tables
+* 2:25: Started creating wireframes in figma
 
