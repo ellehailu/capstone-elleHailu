@@ -7,3 +7,5 @@
 * 11:20: Complete the proposal
 * 12:00: Created a GB contestant table
 * 01:30: Created a BIP contestant table
+* 2:00: Complete contestants tables
+
