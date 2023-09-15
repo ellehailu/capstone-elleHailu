@@ -5,4 +5,5 @@
 * 9:40: Look into firebase and hosting
 * 10:40: Update proposal
 * 11:20: Complete the proposal
-* 12:00: Created a GB contestant table 
+* 12:00: Created a GB contestant table
+* 01:30: Created a BIP contestant table
