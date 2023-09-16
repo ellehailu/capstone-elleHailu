@@ -1,7 +1,7 @@
 #Project Proposal Template
 
-####Name of Student: Elle Hailu
-####Name of Project: Bachelor Franchise Fantasy League (name is wip)
+#### Name of Student: Elle Hailu
+#### Name of Project: Bachelor Franchise Fantasy League (name is wip)
 
 
 - Project's Purpose or Goal: (What will it do for users?)

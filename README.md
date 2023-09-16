@@ -10,3 +10,8 @@
 * 2:00: Complete contestants tables
 * 2:25: Started creating wireframes in figma
 * 3:00: Look at fonts and color palettes
+* 3:30: Outline design and tech components
+
+#### Saturday, September 16, 2023
+
+* 10:40: Finish wireframes
