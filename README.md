@@ -15,3 +15,4 @@
 #### Saturday, September 16, 2023
 
 * 10:40: Finish wireframes
+* 11:25: Research adding login authentication
