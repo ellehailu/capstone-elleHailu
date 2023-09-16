@@ -36,4 +36,4 @@ QWitcher Grypen, Dancing Script
 
 ## Notes
 - [User authentication](https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications)
-- 
+- [Wireframes](https://www.figma.com/file/ZPjswHDDRwJr305bolegDz/Capstone---Fantasy-league-app?type=design&node-id=4%3A305&mode=design&t=eutJ7hv1cgeozpN9-1)
