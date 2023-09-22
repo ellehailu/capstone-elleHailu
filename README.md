@@ -16,3 +16,8 @@
 
 * 10:40: Finish wireframes
 * 11:25: Research adding login authentication
+
+#### Friday, September 22, 2023
+* 9:00: Create a diagram
+* 9:30: Organize components
+
