@@ -20,4 +20,6 @@
 #### Friday, September 22, 2023
 * 9:00: Create a diagram
 * 9:30: Organize components
+* 10:00: look into hosting an API
+* 11:00: look into connecting users table with total scores for leaderboard
 
