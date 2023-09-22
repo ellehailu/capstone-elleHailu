@@ -22,4 +22,4 @@
 * 9:30: Organize components
 * 10:00: look into hosting an API
 * 11:00: look into connecting users table with total scores for leaderboard
-
+* 11:30: add .csv files to api folder
